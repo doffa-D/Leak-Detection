@@ -9,7 +9,7 @@ To use this script, follow these steps:
 
 1. Open a terminal.
 2. Clone the project repository by running the following command: ```git@github.com:doffa-D/live-Memory-Leak-Detection-.git```
-3. open folder by using the command: ```cd live-Memory-Leak-Detection``
+3. open folder by using the command: ```cd live-Memory-Leak-Detection```
 4. Make the script file executable by running the command: `chmod +x leaks.sh`.
 5. Run the script by executing: `./leaks.sh`.
 6. When prompted, enter the PID (Process ID) of the process you want to monitor.
