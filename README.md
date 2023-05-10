@@ -1,6 +1,7 @@
 # Memory Leak Checker
 
 This bash script is designed to monitor and detect memory leaks in a specified process using the `leaks` command. It continuously checks the process and provides alerts if new memory leaks are detected.
+Can be used with any tester
 
 ## Usage
 
